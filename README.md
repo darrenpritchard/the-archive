@@ -1,2 +1,2 @@
 # the-archive
-Just a repository of various projects I've worked on. All work is my own.
+Just a repository of projects I've worked on. All work is my own.
